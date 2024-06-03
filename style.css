@@ -1,6 +1,9 @@
+html{
+    height: 100svh;
+}
 .gameFrame{
     background-color: black;
-    height: 790px;
+    height: 100svh;
     width: 384px;
     left: 0px;
     top: 0px;
@@ -19,7 +22,7 @@
     background-color: red;
     font-family: fantasy;
     font-size: 20px;
-    top: 700px;
+    top: 90svh;
     left: 150px;
     height: 60px;
     width: 100px;
